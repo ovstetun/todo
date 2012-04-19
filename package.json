@@ -2,7 +2,9 @@
   "name": "todo",
   "version": "0.0.1",
   "dependencies": {
-    "express": ""
+    "express": "",
+    "jade" : "",
+    "markdown-js" : ""
   },
   "engines": {
     "node": "0.6.x",
